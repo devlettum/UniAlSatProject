@@ -31,7 +31,7 @@ namespace ConsoleUI
             }
         }
 
-        private static void AdvertTest()
+        private static void AdvertTest() 
         {
             AdvertManager productManager = new AdvertManager(new EfAdvertDal());
 
